@@ -1,0 +1,10 @@
+#Thu Apr 11 15:20:44 IST 2019
+path.2=classes2.dex
+path.1=classes.dex
+path.0=classes.dex
+renamed.2=classes3.dex
+renamed.1=classes2.dex
+renamed.0=classes.dex
+base.2=D\:\\Ayushi Android\\Udemy files\\Parse-Server-Starter-Project\\ParseStarterProject\\build\\intermediates\\transforms\\dexMerger\\debug\\1
+base.1=D\:\\Ayushi Android\\Udemy files\\Parse-Server-Starter-Project\\ParseStarterProject\\build\\intermediates\\transforms\\dexMerger\\debug\\1
+base.0=D\:\\Ayushi Android\\Udemy files\\Parse-Server-Starter-Project\\ParseStarterProject\\build\\intermediates\\transforms\\dexMerger\\debug\\0

@@ -1,0 +1,4 @@
+#Mon Mar 18 01:30:49 IST 2019
+base.0=D\:\\Ayushi Android\\Udemy files\\Parse-Server-Starter-Project\\ParseStarterProject\\build\\intermediates\\transforms\\dexMerger\\debug\\7
+path.0=classes.dex
+renamed.0=classes.dex
